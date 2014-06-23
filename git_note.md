@@ -1,5 +1,9 @@
 # Git与GitHub
 
+```
+:set encoding=utf-8
+```
+
 ## 常用命令
 - 开始时，克隆
 ```
